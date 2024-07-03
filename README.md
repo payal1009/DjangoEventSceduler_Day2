@@ -1,1 +1,1 @@
-# DjangoEventSceduler_Day2
+# DjangoEventScheduler_Day2
