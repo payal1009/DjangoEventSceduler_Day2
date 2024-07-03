@@ -9,6 +9,6 @@ In models.py, we create model of index, name,date,time,description of event with
 database used is sqlite3.
 For reflecting data to the database first do migration then migrate.
 for migration-python manage.py makemigrations.
-for migrate-pyton manage.py migrate.
+for migrate-python manage.py migrate.
 
 
